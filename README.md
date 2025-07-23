@@ -1,10 +1,10 @@
-# 🅿️ Automatic Vacancy Slot Detection System
+# Automatic Vacancy Slot Detection System
 
 This project implements a Parking Slot Detection system using object detection techniques to identify whether parking slots in a video are **occupied** or **vacant**.
 
 ---
 
-## 🔍 What the Project Does
+##  What the Project Does
 
 - Extracts frames from a parking lot video to build the dataset  
 - Allows manual selection of parking slot positions on a reference image  
