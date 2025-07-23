@@ -17,7 +17,7 @@ This project implements a Parking Slot Detection system using object detection t
   `Free: X / Total`
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python**
 - **OpenCV** – Video processing and visualization  
