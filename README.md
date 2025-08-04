@@ -1,11 +1,6 @@
 # Automatic Vacancy Slot Detection System
 
-This project implements a Parking Slot Detection system using object detection techniques to identify whether parking slots in a video are **occupied** or **vacant**. 
-It includes
-- Python
-- OpenCV
-- YOLO-V5
-- PyTorch
+This project employs Python, OpenCV, and PyTorch to detect and classify parking slots in video streams determining whether each slot is occupied or vacant.
 
 ---
 
