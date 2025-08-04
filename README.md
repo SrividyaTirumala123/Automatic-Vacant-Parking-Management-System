@@ -4,7 +4,7 @@ This project implements a Parking Slot Detection system using object detection t
 
 ---
 
-##  What the Project Does
+##  About
 
 - Extracts frames from a parking lot video to build the dataset  
 - Allows manual selection of parking slot positions on a reference image  
