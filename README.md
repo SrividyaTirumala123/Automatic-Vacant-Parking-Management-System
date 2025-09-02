@@ -1,4 +1,4 @@
-# Automatic Vacancy Parking Slot Detection
+# Automatic Vacant Parking Slot Detection
 
 This project uses Python, OpenCV and PyTorch to detect and classify parking slots in video streams determining whether each slot is occupied or vacant.
 
